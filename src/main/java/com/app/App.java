@@ -26,5 +26,16 @@ public class App {
 
         int crossCount = CrossTraversal.countSubmatricesWithM(board);
         System.out.println("Number of cross patterns: " + crossCount);
+        
+        // Example 3: Corner Traversal / Search
+        char[][] board = {
+            {'R','*','R','*'},
+            {'*','*','*','*'},
+            {'R','*','R','*'},
+            {'*','*','*','*'}
+        };
+
+        int cornerCount = CornerTraversal.countSubmatricesWithR(board);
+        System.out.println("Number of 3x3 submatrices with 'R's in corners: " + cornerCount);
     }
 }
