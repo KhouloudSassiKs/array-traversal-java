@@ -16,6 +16,9 @@ It’s designed to be expandable as more traversal patterns and utility classes 
 - Diagonal traversal
 - Row-wise and column-wise patterns
 
+## Notes
+This repository is my independent work, developed and extended from exercises and ideas I practiced on CodeSignal.
+
 ## Usage
 
 Compile and run Java files from the `src/main/java` folder. For example:
@@ -24,6 +27,4 @@ Compile and run Java files from the `src/main/java` folder. For example:
 javac -d out src/main/java/com/app/*.java
 java -cp out com.app.App
 
-## Notes
 
-This repository is my independent work, developed and extended from exercises and ideas I practiced on CodeSignal.
