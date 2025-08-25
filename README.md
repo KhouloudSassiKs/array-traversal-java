@@ -6,6 +6,9 @@ It’s designed to be expandable as more traversal patterns and utility classes 
 ## Current Features
 - Spiral traversal of 2D arrays
 - Tracking elements based on specific conditions (e.g., vowels)
+- Cross Pattern Search: detect 3×3 regions with 'M' characters forming a cross
+- Corner Pattern Search: detect 3×3 regions with 'R' characters in all four corners
+
 
 ## Future Features
 - Snake traversal
