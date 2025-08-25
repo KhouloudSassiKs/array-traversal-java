@@ -13,6 +13,19 @@ It’s designed to be expandable as more traversal patterns and utility classes 
 - Diagonal traversal
 - Row-wise and column-wise patterns
 
+## Project Structure
+
+array-traversal-java/
+├── README.md
+└── src/
+└── main/
+└── java/
+└── com/
+└── app/
+├── App.java # Main entry point
+├── SpiralTraversal.java # Spiral traversal logic
+└── OtherTraversalExamples.java # Placeholder for future algorithms
+
 ## Usage
 
 Compile and run Java files from the `src/main/java` folder. For example:
