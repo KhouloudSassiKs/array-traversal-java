@@ -23,3 +23,7 @@ Compile and run Java files from the `src/main/java` folder. For example:
 ```bash
 javac -d out src/main/java/com/app/*.java
 java -cp out com.app.App
+
+## Notes
+
+This repository is my independent work, developed and extended from exercises and ideas I practiced on CodeSignal.
